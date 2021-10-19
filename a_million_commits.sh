@@ -3,11 +3,11 @@ for Y in {2021..2021}
 do
 	mkdir $Y
 	cd $Y
-	for M in {6..6}
+	for M in {8..10}
 	do
 		mkdir $M
 		cd $M
-		for D in {1..28}
+		for D in {1..19}
 		do
 			mkdir $D
 			cd $D
