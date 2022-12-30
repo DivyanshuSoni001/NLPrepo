@@ -1,13 +1,13 @@
 # a million commits
-for Y in {2021..2021}
+for Y in {2021..2022}
 do
 	mkdir $Y
 	cd $Y
-	for M in {8..10}
+	for M in {11..12}
 	do
 		mkdir $M
 		cd $M
-		for D in {1..19}
+		for D in {11..30}
 		do
 			mkdir $D
 			cd $D
